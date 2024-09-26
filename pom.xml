@@ -90,7 +90,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-docker</finalName>
+		<finalName>springboot-docker</finalName>
 	</build>
 
 </project>
